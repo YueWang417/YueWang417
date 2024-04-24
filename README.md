@@ -3,7 +3,7 @@
 
 <ul>
   <li>🌱 I’m highly interested in <strong> AI, LLM, Computer Vision</strong></li>
-  <li>👨‍💻 My website are available at <a href="https://yuewang417.github.io/Yue.github.io/">https://yuewang417.github.io/Yue.github.io/</a></li>
+  <li>👨‍💻 My website are available at <a href="https://yuewang417.github.io/Yue.github.io/"><strong>https://yuewang417.github.io/Yue.github.io/</strong></a></li>
   <li>📫 Feel free to reach out to me at <a href="mailto:yw3930@caa.columbia.edu"><strong>yw3930@caa.columbia.edu</strong></a>.</li>
 </ul>
 
