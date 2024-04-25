@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yvette</h1>
-<p><img align="right" alt="coding" width="250" src="https://miro.medium.com/v2/resize:fit:496/0*Kf8Cv4yPJLP8gJ0t.gif"></p>
+<p><img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:496/0*Kf8Cv4yPJLP8gJ0t.gif"></p>
 
-<ul>
-  <li>🌱 I’m highly interested in <strong> AI, LLM, Computer Vision</strong></li>
+I'm passionate about harnessing the power of data science to solve complex problems. My professional experience encompasses health sciences and financial sectors, where I apply machine learning techniques to create sophisticated tools for investment and data analysis. 
+
+If you are seeking a data-driven approach to solve complex issues, I would be delighted to discuss how we can collaborate effectively!
+
+
+
+  <li>🔭 I’m into  <strong> NLP, Computer Vision, AI.</strong></li>
+  <li>🌱 I’m currently a Research Assistant at <a href="https://nyspi.org"><strong>New York State Psychiatric Institute</strong></a></li>
   <li>👨‍💻 My website are available at <a href="https://yuewang417.github.io/Yue.github.io/"><strong>https://yuewang417.github.io/Yue.github.io/</strong></a></li>
-  <li>📫 Feel free to reach out to me at <a href="mailto:yw3930@caa.columbia.edu"><strong>yw3930@caa.columbia.edu</strong></a>.</li>
+  <li>📫 Feel free to reach out to me at <a href="mailto:yw3930@caa.columbia.edu"><strong>yw3930@caa.columbia.edu</strong></a></li>
 </ul>
 
 
